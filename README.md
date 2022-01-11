@@ -18,7 +18,7 @@ Daca obstacolul/pietonul se afla la o distanta mai mare de 40 cm ambele LED-ui v
 - 4 led-uri (2 rosii, 2 verzi)
 -	Buzzer
 -	4 rezistente (1K)
--Modul bluetooth HC-05
+- Modul bluetooth HC-05
 
  # 1.	Senzorul HC-SR04
  *Descriere:*
